@@ -8,4 +8,4 @@ Best feature: Paradox database in multi user env.  :-)
 PS: 
 - this is old project made with Delphi
 - it won't work without BDE installed
-- don't ask for VLCs
+- don't ask for VCLs
