@@ -1,0 +1,14 @@
+BiljnaVrstaVOC
+BrojeviUvjerenja
+GrupeBiljaVOC
+KategorijaVOC
+NazivSadMatVOC
+PartneriVOC
+RasadniciVOC
+SetUp
+SortaVOC
+Uvjerenje
+VrsteKlonova
+VrstePodloga
+ZahtVocariDetail
+ZAHTVOCARIMASTER
